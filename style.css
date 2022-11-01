@@ -635,8 +635,8 @@ a[data-lightbox]:hover img {
 
 .snapshot-lb .lightbox-caption {
     padding: 0;
-    color: rgba(0, 0, 0, .5);
-    background: none;
+    color: #F3976C!important;
+    background: black;
 }
 
 h1,
@@ -793,8 +793,8 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background:  #FFFFFF!important;
-    color:  black!important;
+    background:  black!important;
+    color:  #F3976C!important;
 }
 
 .ltc-white {
