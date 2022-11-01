@@ -1,10 +1,8 @@
 # Agence la Panthere
 
-## Site de base: code présentant des problèmes d'optimisation SEO.
-
-## Site corrigé: Code revu et corrigé.
-
 ## Résumé du répertoire: Correction de référencement SEO
+  * Site de base: code présentant des problèmes d'optimisation SEO
+  * Site corrigé: Code revu et corrigé
 
 ## Langages utilisés: 
   * php
