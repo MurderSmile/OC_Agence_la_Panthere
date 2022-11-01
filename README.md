@@ -2,7 +2,7 @@
 
 ## Résumé du répertoire: Correction de référencement SEO
   * Site de base: code présentant des problèmes d'optimisation SEO
-  * Site corrigé: Code revu et corrigé
+  * Site corrigé: code revu et corrigé
 
 ## Langages utilisés: 
   * php
